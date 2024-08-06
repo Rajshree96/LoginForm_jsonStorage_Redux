@@ -1,0 +1,93 @@
+{
+  "loginData": [
+    {
+      "name": "reg",
+      "password": "thrthrthhrtth",
+      "id": 1
+    },
+    {
+      "name": "RANI",
+      "password": "SASS",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "third 3",
+      "password": "fsfsf",
+      "contact": "sffsf",
+      "address": "sfffsf",
+      "id": 3
+    },
+    {
+      "name": "fourth",
+      "password": "fsfsf",
+      "contact": "sffsf",
+      "address": "sffsf",
+      "id": 4
+    },
+    {
+      "name": "sffsfs  saqWDQAWD",
+      "password": "sffsf",
+      "contact": "sffsfsf",
+      "address": "sffsf",
+      "id": 6
+    },
+    {
+      "name": "ASDCCadsdadsa",
+      "password": "adadad",
+      "contact": "addada",
+      "address": "adddad",
+      "id": 7
+    },
+    {
+      "name": "ONE",
+      "password": "111",
+      "contact": "11",
+      "address": "111",
+      "id": 8
+    },
+    {
+      "name": "asdadad",
+      "password": "dadadad",
+      "contact": "addada",
+      "address": "addad s sefgsfsfs sfessfsf ",
+      "id": 9
+    },
+    {
+      "name": "czczczc sfgsfsf",
+      "password": "czczc",
+      "contact": "zczcc  sfsfsf",
+      "address": "zcczc",
+      "id": 11
+    },
+    {
+      "name": "sakshi",
+      "password": "dc",
+      "contact": "dc",
+      "address": "cd",
+      "id": 12
+    },
+    {
+      "name": "asdad",
+      "password": "safer",
+      "contact": "tj6ju",
+      "address": "6ki647k",
+      "id": 13
+    },
+    {
+      "name": "asdsawf",
+      "password": "grert",
+      "contact": "rrrh",
+      "address": "htthtt",
+      "id": 14
+    },
+    {
+      "name": "last",
+      "password": "grg",
+      "contact": "rthrtr",
+      "address": "htej",
+      "id": 15
+    }
+  ]
+}
