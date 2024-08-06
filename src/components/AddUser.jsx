@@ -23,6 +23,8 @@ function AddUser() {
   //     setPassword(iddata?.password);
   //     setContact(iddata?.contact);
   //     setAddress(iddata?.address);
+  // cls
+  
 
   useEffect(() => {
     setName(iddata?.name);
